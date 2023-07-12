@@ -1,0 +1,22 @@
+name: Spring Framework
+logo: 
+short-description:
+key-objectives:
+aditional-objectives:
+contents:
+  - type: ARTÍCULO
+    title: "Que es la inyección de dependencias en Spring"
+    link: https://gustavopeiretti.com/spring-inyeccion-dependencias/
+  - type: YOUTUBE
+    title: "Aprende Spring Boot de una vez por todas! #17 Inyección de Dependencias"
+    link: https://www.youtube.com/watch?v=SEaDMUy0xKo&ab_channel=CodigoMorsa
+  - type: YOUTUBE
+    title: "Aprende Spring Boot de una vez por todas! #19 Beans"
+    link: https://www.youtube.com/watch?v=ZCy8JzmZi8Q&ab_channel=CodigoMorsa
+  - type: ARTÍCULO
+    title: "Que es el Modelo Vista Controlador (MVC)"
+    link: https://peznuss.medium.com/que-es-el-modelo-vista-controlador-mvc-5b7ff4dbf85e
+  - type: YOUTUBE
+    title: "JPARepository en SPRING DATA - Tutorial Completo Fácil"
+    link: https://www.youtube.com/watch?v=6Vy0rS9Obog&ab_channel=ProgramandoenJAVA
+alura-contents:

@@ -1,0 +1,17 @@
+name: Contenedores
+logo: 
+short-description:
+key-objectives:
+  - Apollo Client es una biblioteca integral de administración de estado para JavaScript que le permite administrar datos locales y remotos con GraphQL.
+aditional-objectives:
+contents:
+  - type: YOUTUBE
+    title: "¿Qué es Docker y los contenedores?"
+    link: https://www.youtube.com/watch?v=kkfZs0vJFyU
+  - type: YOUTUBE
+    title: "¿Que es un contenedor?"
+    link: https://www.youtube.com/watch?v=x5zGoICZLnU
+  - type: YOUTUBE
+    title: "Volúmenes y redes en Docker"
+    link: https://www.youtube.com/watch?v=DIDel70dFlI&ab_channel=Programaci%C3%B3nenespa%C3%B1ol
+alura-contents:
